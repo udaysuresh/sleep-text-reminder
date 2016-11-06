@@ -6,4 +6,5 @@ Part of the [SleepWell](https://devpost.com/software/sleepwell) production proce
 Back-end reminder integration for iOS application under development. 
 
 Proposed front-end:
-<img src="mockup.png" width = "700px"> 
+
+<img src="mockup.png" width = "500px"> 
