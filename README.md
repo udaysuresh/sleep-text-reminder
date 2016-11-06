@@ -8,4 +8,4 @@ Back-end reminder integration for iOS application under development.
 Proposed front-end:
 
 <img src="mockup1.png" width = "250px">
-<img src="mockup2.png" width = "257px", height = "290px"> 
+<img src="mockup2.png" width = "257px", height = "490px"> 
