@@ -1,7 +1,7 @@
 # sleep-text-reminder
 Sends scheduled SMS message sleep reminder to phone. Built at the Stanford Health++ Hackathon.
 
-Part of the <a href="https://devpost.com/software/sleepwell" target="_blank">SleepWell</a> production process. 
+Part of the <a href="https://devpost.com/software/sleepwell" target="blank">SleepWell</a> production process. 
 
 Back-end reminder integration for iOS application under development. 
 
